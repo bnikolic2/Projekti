@@ -1,0 +1,25 @@
+1. sastanak
+	• Datum: 20.listopada 2022.
+	• Prisustvovali: L.Majer, A.Zaja, B.Nikolić, A.Grčević, M.Majdiš, T.Margetić, M.Pavičić, M.Petričević, M.Vuković
+	• Teme sastanka:
+		– pojašnjenje dobivenog zadatka 
+2. sastanak
+	• Datum: 31.listopada 2022.
+	• Prisustvovali: B.Nikolić, A.Grčević, M.Majdiš, T.Margetić, M.Pavičić, M.Petričević, M.Vuković
+	• Teme sastanka:
+		– podjela zadataka
+		– dogovor oko korištenih tehnologija 
+		– skiciranje izgleda stranice
+3. sastanak
+	• Datum: 3.studenoga 2022.
+	• Prisustvovali: L.Majer, B.Nikolić, A.Grčević, M.Pavičić
+	• Teme sastanka:
+		– ispravak sekvencijskih dijagrama
+		– ispravak baze podataka
+		– objasnjenje nejasnoća
+4. sastanak
+	• Datum: 9.studenoga 2022.
+	• Prisustvovali: B.Nikolić, A.Grčević, M.Majdiš, T.Margetić, M.Pavičić, M.Petričević, M.Vuković
+	• Teme sastanka:
+		– pregled napravljene stranice
+		– raspodjela daljnjih zadataka
